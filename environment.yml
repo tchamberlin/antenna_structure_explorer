@@ -1,0 +1,17 @@
+name: asr-3.9-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - cartopy
+  - colorcet
+  - datashader
+  - fastparquet
+  - geoviews
+  - holoviews
+  - pandas
+  - requests
+  - jupyterlab
+  - ipywidgets
+  - python<3.10
