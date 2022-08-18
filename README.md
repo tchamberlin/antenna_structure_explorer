@@ -12,7 +12,7 @@ To run locally:
 
 ```bash
 # Create a Conda env
-conda env create environment.yml
+conda env create -f environment.yml
 # Open the notebook in Jupyterlab
-jupyter-lab ./us_antenna_towers.ipynb
+jupyter lab ./us_antenna_towers.ipynb
 ```
